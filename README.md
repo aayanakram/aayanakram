@@ -1,4 +1,4 @@
-## Hi, I'm Aayan!
+## Hi,
 
 I'm a second-year Computer Engineering student at McMaster University, interested in drones & robotics, autonomous systems, embedded systems, and computer vision.
 
